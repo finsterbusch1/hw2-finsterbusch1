@@ -48,3 +48,5 @@ I would recommend deploying this workflow in a **human-in-the-loop** configurati
 4. Any quote flagged as ambiguous (missing prices, unusual discount structure) is escalated to a senior staff member
 
 Under these conditions, the workflow could reduce quote preparation time by 50–70% while maintaining accuracy. Fully automated deployment without human review would not be appropriate at this stage.
+
+Step 6 - final report added

@@ -99,3 +99,5 @@ Important:
 **What changed:** Added explicit $0.00 exclusion rule, added bill-to/ship-to fields, added notes field, told the model to write clean customer-facing descriptions.  
 **What improved:** $0.00 base unit no longer appears in output. Bill-to and ship-to are captured correctly. Descriptions are cleaner. Notes/terms from the manufacturer are preserved.  
 **What stayed the same:** Occasional formatting of addresses varies slightly — human review of the output is still recommended before sending to a customer.
+
+Step 5 - prompt iteration documented

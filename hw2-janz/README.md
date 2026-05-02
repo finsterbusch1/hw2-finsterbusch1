@@ -77,3 +77,5 @@ hw2-janz/
 | `prompts.md` | Three prompt versions with notes on what changed and why |
 | `eval_set.md` | 5 evaluation cases including edge cases |
 | `report.md` | Business case, model choice, evaluation results, recommendation |
+
+Initial commit - all project files

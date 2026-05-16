@@ -1,7 +1,7 @@
 # HW2 – Manufacturer Quote → JANZ Quote Converter
 
 **Course:** JHU GenAI Workflow  
-**Student:** [Your Name]  
+**Student:** [Brian Finsterbusch]  
 **Video Walkthrough:** [ADD YOUR YOUTUBE LINK HERE]
 
 ---

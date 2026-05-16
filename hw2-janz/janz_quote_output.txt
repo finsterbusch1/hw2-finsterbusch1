@@ -34,7 +34,10 @@
   1     292                  4      $ 10,070.37 $ 40,281.48
   UltraScan Versa Premier Table, Height/Fowler/Trendelenburg, Dual Imaging Drop Sections
 
-  2     15844                4      $    104.50 $    418.00
+  2     9000_UVP             4      $      0.00 $      0.00
+  UltraScan Versa Premier Single Pedal Braking Base
+
+  3     15844                4      $    104.50 $    418.00
   Dual Push Handles
 
 ----------------------------------------------------------------------

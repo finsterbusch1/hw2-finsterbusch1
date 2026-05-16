@@ -2,7 +2,7 @@
 
 **Course:** JHU GenAI Workflow  
 **Student:** [Brian Finsterbusch]  
-**Video Walkthrough:** [ADD YOUR YOUTUBE LINK HERE]
+**Video Walkthrough:** [https://youtu.be/qkYbOtyWHZk]
 
 ---
 
